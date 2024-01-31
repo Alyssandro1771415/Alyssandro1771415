@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-E34F26?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
+![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=61DAF)&nbsp;
 
 ### Studying in this moment:
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+
